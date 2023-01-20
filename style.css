@@ -1,0 +1,44 @@
+.bloc1 img {
+
+   border-radius:  50%;;
+
+    float: left;
+  
+     height: 150px;
+     width: 150px;
+    }
+
+.cordonnés{
+
+    list-style: none;
+    height: 150px;
+  float: left;
+  padding: 20px;
+}
+hr{
+   
+    border-color: lightskyblue;
+    
+  
+}
+h1{
+    text-align: center;
+    margin: 10px auto;
+  
+}
+h2{
+    text-align: center;
+    
+}
+.formation{
+  text-align: left;
+}
+.contenu {
+ margin: 0 auto;
+ width: 600px;
+}
+.bloc1{
+    height: 150px;
+    margin-top: 2%;
+ 
+}
